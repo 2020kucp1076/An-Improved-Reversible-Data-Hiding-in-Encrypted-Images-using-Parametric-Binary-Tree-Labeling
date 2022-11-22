@@ -10,3 +10,4 @@ Research paper used for implementation-> https://ieeexplore.ieee.org/abstract/do
    Enter the pixel values that you got after step 2.
    Run the code and you will see the extracted data and decrypted image.
    
+Our image matrix can only hold message upto 4 length, you can change the image matrix and the message length as well.
