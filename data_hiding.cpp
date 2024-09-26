@@ -1,6 +1,6 @@
 string message,binary_message;
 int count=0,counter=0;
-cout<< "\ndon't use spaces and Enter the message: ";
+cout<< "\ndon't use spaces and Enter the message(lowercase): ";
 cin>>message;
 cout<<message<<"\n";
 vector<double> length_char;
