@@ -4,7 +4,7 @@ Research paper used for implementation-> https://ieeexplore.ieee.org/abstract/do
    Enter the pixel values you want to enter in the normal matrix that represents the image.
 
 2. data_hiding.cpp->
-   Add this code in the end of encrypt.cpp. After running, you will get encrypted image matrix, the intermediate matrices and a option to enter 3-4 length string that is the data to hide. Now, you will get the embedded matrix.
+   Add this code in the end of encrypt.cpp. After running, you will get encrypted image matrix, the intermediate matrices and a option to enter 3-4 length string(lowercase) that is the data to hide. Now, you will get the embedded matrix.
 
 3. Decrypt.cpp ->
    Enter the pixel values that you got after step 2.
